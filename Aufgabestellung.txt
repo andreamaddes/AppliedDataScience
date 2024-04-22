@@ -1,0 +1,47 @@
+Informationen zur Projektarbeit (max. 28 Punkte)
+
+Mindestanforderung an die Projektarbeit (max. 9 Punkte):
+Das Projekt muss ein Projekt zum Thema Applied Data Science sein, d.h. auf den Inhalten des Moduls ADS aufbauen.
+Das Projekt muss mehrere im Modul vorgestellte Themen integrieren, im Minimum sind dies die folgenden:
+(1) Datenerhebung mittels Web Scraping UND Web API (muss Teil des Python Codes sein, einfache File-Downloads zählen nicht)
+(2) Datenaufbereitung (z.B. Entfernen NAs und Duplikate, Erstellen neuer Variablen, Anreicherung der Daten, ...)
+(3) Speichern der Daten in einer Database wie MySQL oder PostgreSQL sowie SQL Abfragen aus dieser (SQLite zählt nicht!!!)
+(4) Umfangreiche Explorative Datenanalyse (EDA)
+(5) Verwendung eines ML Frameworks/Library (tensorflow/keras, sklearn oder im Kurs nicht betrachtete wie pytorch)
+(6) Erstellen von Modellvorhersagen
+(7) Evaluation der Modelle mit Hilfe geeigneter Modellgütemasse
+(8) Korrekte Interpretation der Modellergebnisse und Modellgütemasse
+(9) Bereitstellung des Materials (Daten, Jupyter Notebooks, ...) auf Moodle
+
+Zusatzpunkte für Projektarbeit, falls Folgendes erfüllt (max. 7 Punkte):
+(1) Kreativität der Umsetzung (kreativ ist alles, was in den Lektionen und Übungen nicht vorgegeben wurde)
+(2) Verwendung von Docker Containern (Docker Compose) für die Bearbeitung und Speicherung der Daten und die Modellierung
+(3) Integration und Visualisierung von geographischen Daten
+(4) Verwendung einer fortgeschrittenen Deep Learning Struktur/Technik (z.B.CNN, RNN, Transfer Learning, Transformers …)
+(5) Ermittlung von Modellierungshypothesen und Überprüfung von Modellierungsannahmen
+(6) Verwendung von im Unterricht behandelten NLP-Techniken
+(7) Verfügbarmachen des Pythoncodes / der Jupyter notebooks in einem (public) GitHub Repository
+
+Projektvortrag in Form einer Videoaufzeichnung (max. 12 Punkte)
+Bewertet werden:
+(1) Struktur (Aufbau & Gliederung)
+(2) Themendarstellung (Thema klar definiert?, Wie überzeugend präsentiert?)
+(3) Inhalt (Substanz, Tiefgang, Gewichtung der Teile)
+(4) Sprache / Hilfsmittel (Frei gesprochen? Ausgewogener Mix aus Präsentation & Live-Demo?)
+(5) Qualität der Präsentation
+(6) Zeiteinhaltung: Länge des Vortrags in Minuten = Anzahl Studierende pro Gruppe x 5 Minuten
+
+Abzugeben sind als .zip-Datei mit der Gruppennummer, z.B. Projektarbeit_ADS_FS2024_Gruppe_01.zip
+(1) Videoaufzeichnung Projektvortrag als mp4-Datei, z.B. Videoaufzeichnung_Gruppe_01.mp4
+(Achten Sie darauf, dass das Video die zulässige Dateigröße auf Moodle nicht überschreitet).
+(2) Zip-Datei mit allen Daten und Jupyter-Notebook(s), z.B.: 'Material_Gruppe_01.zip'
+(3) Präsentation als PDF-File (als z.B. Praesentation_Gruppe_01.pdf) mit folgender Minimalstruktur:
+    - Titel und voller Name aller Studierenden
+    - Einleitung (Hintergrund, Problemstellung, Zielstellung, Forschungsfrage)
+    - Material & Methoden
+    - Diskussion & Ergebnisse
+    - Schlussfolgerungen
+WICHTIG!!! 
+Geben Sie im Anhang der Präsentation an, was Sie Ihrer Meinung nach getan haben, um die Punkte zu erhalten. 
+Geben Sie ebenfalls an, wo dies zu finden ist (klarer Beleg in Form von Screenshots / Code-Snippets erforderlich).
+Die Vergabe der Punkte erfolgt im Rahmen der Projektarbeit durch die Dozierenden (nicht allein nach Ihrer Aufstellung).
